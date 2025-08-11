@@ -9,7 +9,7 @@ body {
     justify-content: center;
 }
 
-nav {
+.navbar {
     align-items: left;
     list-style-type: none;
     margin: 0;
